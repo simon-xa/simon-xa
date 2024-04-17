@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simon Li @simon-xa, from China.
-- 👀 I’m a C++ programmer, almost for 30 years. Now I’m retired. I’m good at pure mathematics, analysis and algebra, for example. Geometry is some hard to me, especially algebraic geometry.
+- 👀 I’m a C++ programmer, almost for 30 years. Now I’m retired. I’m good at pure mathematics, for example, analysis and algebra. Geometry is some hard to me, especially algebraic geometry.
 - 🌱 I’m currently learning something, some projects, with math and C++.
 - 💞️ I’m looking to collaborate on some projects with math and C++.
 - 📫 How to reach me: simonli.xa@gmail.com
